@@ -23,3 +23,5 @@ Only if played in Peer-to-Peer, so it will not impact Ranked. Only custom games 
 ## __Uninstallation__
 Simply delete `res1.pak` (or whatever you named this pak to) from the folder.
 
+# Other Mods by Me
+- [Quinngard](https://github.com/PetarSpassov/Quinngard) - An extensive PVE-oriented balance and QoL mod
